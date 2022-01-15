@@ -14,7 +14,8 @@ Benefits of Open-Closed Principle
 -----------------------------------------------------------------------------------------------------------------------
 the open/closed principle is generally achieved by using inheritance and polymorphism (abstraction).
 -----------------------------------------------------------------------------------------------------------------------
-Note => it introduce new level of abstraction increasing the complexity of the code. So this principle should be applied in those area which are most likely to be changed
+Note => it introduce new level of abstraction increasing the complexity of the code. 
+        So this principle should be applied in those area which are most likely to be changed
 -----------------------------------------------------------------------------------------------------------------------
 
  */

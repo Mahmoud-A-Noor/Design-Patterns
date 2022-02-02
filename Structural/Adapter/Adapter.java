@@ -18,7 +18,6 @@ The adapter implements the target interface. Adapter delegates all requests to A
 when to use:
     1- When an object needs to utilize an existing class with an incompatible interface.
     2- When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
-    3- When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
 --------------------------------------------------------------------------------------
 Benefits of using Adapter    
     1- It allows two or more previously incompatible objects to interact.

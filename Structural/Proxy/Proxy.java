@@ -19,7 +19,7 @@ Types of proxies
     4- Smart References => providing a sophisticated access to certain objects such as tracking the number of references to an object and denying access if a certain number is reached, 
        as well as loading an object from database into memory on demand.
 --------------------------------------------------------------------------------------
-Benefits of using Singleton    
+Benefits of using Proxy    
     1- Security.
     2- avoids duplication of objects which might be huge size and memory intensive.
     3- The remote proxy also ensures about security by installing the local code proxy (stub) in the client machine and then accessing the server with help of the remote code.

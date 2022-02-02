@@ -20,7 +20,7 @@ when to use:
     2- When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
     3- When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
 --------------------------------------------------------------------------------------
-Benefits of using Singleton    
+Benefits of using Adapter    
     1- It allows two or more previously incompatible objects to interact.
     2- It allows reusability of existing functionality.
 --------------------------------------------------------------------------------------

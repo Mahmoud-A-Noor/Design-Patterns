@@ -115,7 +115,7 @@ class Main
 // ============================================================================================================================================= //
 
 //** references */
-// https://www.tutorialspoint.com/design_pattern/proxy_pattern.htm
-// https://www.oodesign.com/proxy-pattern.html
-// https://www.geeksforgeeks.org/proxy-design-pattern/
-// https://www.javatpoint.com/proxy-pattern
+// https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+// https://www.oodesign.com/adapter-pattern.html
+// https://www.geeksforgeeks.org/adapter-pattern/
+// https://www.javatpoint.com/adapter-pattern
